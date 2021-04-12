@@ -1,12 +1,8 @@
-### Hi there 👋
+### Hello. My name is Erlens!  👋
 
 
 - 🌱 I’m currently learning at Strive-School as Full-Stack Developer
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/erlensgadzans/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: erlens.gadzans@gmail.com
 - 🤔 I Work with: <br><br><image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <image src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -19,4 +15,3 @@
      <image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
      <image src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <br><br>
--->
