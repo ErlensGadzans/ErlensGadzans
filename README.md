@@ -1,8 +1,8 @@
 ### Hello. My name is Erlens!  👋
 
-
+<br>
 <a target="_blank" href="https://www.linkedin.com/in/erlensgadzans/">
-  <img align="left" alt="LinkdeIN" width="40px" style="margin-right: 20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="mailto:erlens.gadzans@gmail.com">
   <img align="left" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -10,8 +10,10 @@
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+37122840901">
   <img align="left" alt="Whatsapp" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
+
 <br>
-<hr>
+<br>
+<hr >
 
 
 - 🤔 I Work with: <br><br><image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
