@@ -1,7 +1,7 @@
 ### Hello. My name is Erlens!  👋
 
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/erlensgadzans/">
+<a href="https://www.linkedin.com/in/erlensgadzans/" target="_blank">
   <img align="left" alt="LinkdeIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="mailto:erlens.gadzans@gmail.com">
