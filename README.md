@@ -19,3 +19,4 @@
        
        
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErlensGadzans&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ERLENSGADZANS&show_icons=true&theme=radical)
