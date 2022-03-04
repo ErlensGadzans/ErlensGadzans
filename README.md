@@ -1,9 +1,18 @@
 ### Hello. My name is Erlens!  👋
 
 
-- 🌱 I’m currently learning at Strive-School as Full-Stack Developer
-- 📫 How to reach me: erlens.gadzans@gmail.com
-- My portfolio page: https://erlens.info/
+<a target="_blank" href="https://www.linkedin.com/in/erlensgadzans/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="mailto:erlens.gadzans@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=+37122840901">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+
+
+
 - 🤔 I Work with: <br><br><image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <image src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
