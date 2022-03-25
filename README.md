@@ -8,7 +8,7 @@
   <img align="left" alt="Whatsapp" width="40px" src="https://img.icons8.com/color/144/000000/whatsapp--v1.png" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/erlensgadzans/">
-  <img align="left" alt="LinkdeIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="40px" src="https://img.icons8.com/color/144/000000/linkedin.png" />
 </a>
 
 <br>
