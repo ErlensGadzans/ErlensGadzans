@@ -2,7 +2,7 @@
 
 <br>
 <a target="_blank" href="mailto:erlens.gadzans@gmail.com">
-  <img align="left" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" style="color:red" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+37122840901">
   <img align="left" alt="Whatsapp" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
